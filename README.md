@@ -1,5 +1,7 @@
 ## Privacy Policy
-Below Listed are the Privacy Policies and Terms of Service of Exynos Development and its Projects with respect to the latest Discord [Developer Terms and Policies](https://discordapp.com/developers/docs/legal).
+A privacy policy is a description of what you do with personal data. The critical things to describe in the policy are how you and your website or app collect, use, store, and share or disclose information about people. Providing a privacy policy also helps your users understand what happens to information about them.
+
+Below Listed are the Privacy Policies and Terms of Service of Exynos-Project and its Projects with respect to the latest Discord [Developer Terms and Policies](https://discordapp.com/developers/docs/legal).
 These Policies Apply to all the Projects (Verified by Discord) of the Organisation and doesn't violate any [User Guildelines](https://discord.com/guidelines).
 
 ## What Kind of Data We Collect?
@@ -15,8 +17,9 @@ Generally, the main command based data being colleted are -
 Information like the User's ID, Tag, Profile who adds our project to the respective server along with the Information (ID and Name) where the project has been added is collected via Discord OAuth2.
 
 ## Where the Data Goes?
-Data collected is stored inside of the Servers the Application is running on (safe, trusted like Oracle Cloud) and database is stored within MongoDB_Cloud Servers powered by AWS. Only the owner has access to these information
-This means that the Data is secured and falls under safe hands.
+The Data being collected by the application are stored in the Virtual Private Server Instance which is provided by trusted brands (in this case Oracle Cloud) and the Database governing this is being hosted in the MongoDB Cloud Clusters on Amazon's AWS-Hyderabad platform.
+
+Also the only person having access to these are the Owner of the Organisation/Project. This ensures the total safety of the user(s) data.
 
 ## What about Message Content?
 No Message Content is being stored in anyway possible. Only the prefix handling requires message_content.
@@ -41,5 +44,3 @@ Also By Agreeing, you also agree to the fact of allwowance of usage of your data
 * **Owner, Developer and Controller** - [DeadShot](https://github.com/deadshotofficial) 
 * **Discord Username** - `DeadShot#2039`
 * **Mail** - `deadshot3r@pm.me`
-* **Projects** - [Exynos](https://dsc.gg/exynos)
-* [Instagram](https://instagram.com/deadshotgraphics) • [Twitter](https://twitter.com/deadshot3r)
